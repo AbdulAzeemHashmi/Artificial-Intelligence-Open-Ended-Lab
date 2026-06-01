@@ -1,7 +1,7 @@
 # Artificial Intelligence Open-Ended Lab 🤖🎥
 
 Welcome to the **Artificial Intelligence Open-Ended Lab** repository! 
-
+  
 This repository contains the implementation of a comprehensive AI video processing pipeline. The project leverages state-of-the-art machine learning models to analyze video footage, detect objects, generate frame captions, and evaluate scene impact scores. 
 
 ## 📂 Repository Contents
