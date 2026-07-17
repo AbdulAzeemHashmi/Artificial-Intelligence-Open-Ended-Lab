@@ -61,19 +61,19 @@ This project utilizes several powerful libraries and AI models:
 The pipeline executes a series of sequential tasks to analyze the videos:
 
 <details>
-<summary>🧩 <b>Task 1 : ROI Processing</b> — click to expand</summary>
+<summary>🧩 <b>Task 1 : ROI Processing</b> - click to expand</summary>
 <br>
 Extracts and processes specific Regions of Interest, ROI, from the video feed.
 </details>
 
 <details>
-<summary>🧠 <b>Tasks 2 to 5 : Advanced Video Analysis</b> — click to expand</summary>
+<summary>🧠 <b>Tasks 2 to 5 : Advanced Video Analysis</b> - click to expand</summary>
 <br>
 Utilizes YOLO11 to track objects and BLIP to generate semantic understanding of the video segments.
 </details>
 
 <details>
-<summary>📉 <b>Task 6 : Scene Impact Score Evaluation</b> — click to expand</summary>
+<summary>📉 <b>Task 6 : Scene Impact Score Evaluation</b> - click to expand</summary>
 <br>
 Calculates a raw impact score for each video segment. The final output generates a timeline graph, `Task6_Evaluation_Graph.png`, plotting these scores against a median High Impact Threshold.
 </details>
